@@ -1,0 +1,51 @@
+
+body {
+	font-family: 'Fauna One';
+}
+
+h1 {font-family: 'Playfair Display';
+	font-size: 60px;
+	text-align: center;
+	display: block;
+}
+header { background: url(http://www.carnival.com/~/media/Images/explore/destinations/ports/carnival-home-port-seattle-1.ashx);
+	background-color: transparent;
+	color: white;
+	padding: 10px;
+	display: block;
+	height: 325px;
+}
+
+header img {
+	opacity: 1
+}
+h2 {
+	font-family: 'Playfair Display';
+	font-size: 24px;
+}
+h3 {
+	font-family: 'Fauna One';
+	font-size: 18px;
+}
+
+nav {
+	background-color: #eeeeee;
+	display: inline-block;
+	float: right;
+	padding: 15px
+}
+
+article {
+	padding: 30px
+}
+
+.bio-pic {
+	width: 300px;
+	border: 1px solid #000000;
+}
+
+.bio-box {
+	float: left;
+	display: inline-block;
+	padding: 10px
+}
